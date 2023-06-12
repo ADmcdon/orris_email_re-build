@@ -1,0 +1,405 @@
+<mjml>
+  <mj-head> </mj-head>
+  <mj-body width="600px" background-color="#444b3e">
+    <!-- logo section -->
+    <mj-section padding-top="20px">
+      <mj-column>
+        <mj-image
+          href="https://link.seguno-mail.com/f/a/jz2FSvT0dfZ7NfkBZe2Fvw~~/AAKyOQA~/RgRmVc5tP0R5aHR0cHM6Ly9vcnJpc3BhcmlzLmNvbT91dG1fY2FtcGFpZ249bmV3c2xldHRlci1jdXN0b20tYmVmYzg3OWE2OTk4NGI4MWJiMzYyY2FjNGQzOTI5MTAmdXRtX21lZGl1bT1lbWFpbCZ1dG1fc291cmNlPXNlZ3Vub1cDc3BjQgpkYm1Jc2SuC80nUhltYXR0QHJlYWxseWdvb2RlbWFpbHMuY29tWAQAAnWg"
+          src="https://cdn.seguno.com/637990ff7533493187fc62ed184f9788/images/wordmark-1637835905870.png"
+          width="230px"
+          alt="Orris Logo" title="Orris"
+        />
+        <mj-text
+          padding-bottom="0"
+          padding-top="20px"
+          align="center"
+          color="#fff"
+          font-size="14px"
+        >
+          The "Dirt" Behind Luxury Bar Soap
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- logo section -->
+    <!-- Soap image -->
+    <mj-section padding-bottom="10px" padding-top="0">
+      <mj-column>
+        <mj-image
+          padding-bottom="0"
+          padding-top="0"
+          href="https://link.seguno-mail.com/f/a/jz2FSvT0dfZ7NfkBZe2Fvw~~/AAKyOQA~/RgRmVc5tP0R5aHR0cHM6Ly9vcnJpc3BhcmlzLmNvbT91dG1fY2FtcGFpZ249bmV3c2xldHRlci1jdXN0b20tYmVmYzg3OWE2OTk4NGI4MWJiMzYyY2FjNGQzOTI5MTAmdXRtX21lZGl1bT1lbWFpbCZ1dG1fc291cmNlPXNlZ3Vub1cDc3BjQgpkYm1Jc2SuC80nUhltYXR0QHJlYWxseWdvb2RlbWFpbHMuY29tWAQAAnWg"
+          src="https://cdn.seguno.com/637990ff7533493187fc62ed184f9788/images/9521222778910copy-1685089972209.png"
+          width="438px"
+          alt="coco chanel bar of soap" title="coco chanel bar of soap"
+        />
+      </mj-column>
+    </mj-section>
+    <!-- Soap image -->
+    <!-- section head -->
+    <mj-section padding-bottom="0" padding-top="0">
+      <mj-column>
+        <mj-text
+          padding-bottom="5px"
+          font-size="15px"
+          color="white"
+          letter-spacing="1.1px"
+        >
+          <u>NOT CLEAN</u>
+        </mj-text>
+        <mj-text
+          padding-bottom="10px"
+          font-size="14px"
+          color="white"
+          line-height="1.2"
+        >
+          Most "luxury" bar soaps on the market contain Palm Oil and other cheap
+          synthetic ingredients, colorants, stabilizers, and chelating agents.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- section head -->
+    <!-- ingredients -->
+    <mj-section padding-bottom="0" padding-top="0">
+      <mj-column>
+        <mj-text
+          font-size="14px"
+          color="white"
+          letter-spacing="1.1px"
+          line-height="1.2"
+        >
+          Ingredients of Above Product:
+          <span style="background-color: red">SODIUM PALMATE</span> |
+          <span style="background-color: red">SODIUM PALM KERNELATE</span> |
+          AQUA (WATER) | PARFUM (FRAGRANCE) |
+          <span style="background-color: red">PALM KERNEL ACID</span> |
+          <span style="background-color: red">SODIUM THIOSULFATE</span> |
+          <span style="background-color: red">PEG/PPG-20/6 DIMETHICONE</span> |
+          <span style="background-color: red">HEXYL CINNAMAL</span> |
+          <span style="background-color: red">CALCIUM SDIUM BOROSILICATE</span>
+          | GLYCERIN | SODIUM CHLORIDE | LINALOOL | LIMONENE | BENZYL SALICYLATE
+          | CITRONELLOL |
+          <span style="background-color: red">TETRASODIUM EDTA</span> |
+          <span style="background-color: red">TETRASODIUM ETIDRONATE</span> |
+          GERANIOL | COUMARIN |
+          <span style="background-color: red">BENZYL ALCOHOL</span> | TIN OXIDE
+          |
+          <span style="background-color: red"
+            >PENTAERYTHRITYL TETRA-DI-T-BUTYL HYDROXYHYDROCINNAMATE</span
+          >
+          | CI 77891 (TITANIUM DIOXIDE) | IL13A
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- ingredients -->
+    <!-- production process-->
+    <mj-section padding-bottom="0" padding-top="0">
+      <mj-column>
+        <mj-text
+          padding-bottom="10px"
+          font-size="15px"
+          color="white"
+          letter-spacing="1.1px"
+        >
+          <u>PRODUCED VIA EXTRUSION </u>
+        </mj-text>
+        <mj-text font-size="14px" color="white" line-height="1.2">
+          A majority are made industrially by “extrusion” via a machine using
+          standard soap pellets. This process that means it is almost impossible
+          to truly customize formulas beyond scent and colour.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- production process-->
+    <!-- sensitive skin -->
+    <mj-section padding-bottom="50px" padding-top="0">
+      <mj-column>
+        <mj-text
+          padding-bottom="10px"
+          font-size="15px"
+          color="white"
+          letter-spacing="1.1px"
+        >
+          <u>IRRITATING</u>
+        </mj-text>
+        <mj-text font-size="14px" color="white" line-height="1.2">
+          These industrally produced bar soaps generally contain low levels of
+          glycerin. They are not recommended for use on the Face due to the
+          stripping nature of the product and do not not provide any skincare
+          benefits (no actives).
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- sensitive skin -->
+    <!--product display -->
+    <mj-section padding-bottom="20px" padding-top="0">
+      <mj-column>
+        <mj-text
+          padding-bottom="20px"
+          align="center"
+          font-size="15px"
+          color="white"
+          letter-spacing="1.1px"
+        >
+          The ORRIS Difference: Combining French Savoir-Faire with Clean
+          Ancestral Ingrendients
+        </mj-text>
+        <mj-image
+          padding-top="20px"
+          padding-bottom="0"
+          src="https://cdn.seguno.com/637990ff7533493187fc62ed184f9788/images/ORRIS_LUDOVIC_BALAY_JULIEN_GOULARD_9copy-1685111572907.jpg"
+          alt="bar of soap measured by caliper"
+          title="bar of soap measured by caliper"
+          width="485px"
+        />
+      </mj-column>
+    </mj-section>
+    <!--product display -->
+    <!-- clean ingredients -->
+    <mj-section padding-bottom="20px" padding-top="20px">
+      <mj-column>
+        <mj-text
+          align="center"
+          font-size="14px"
+          color="white"
+          letter-spacing="1.1px"
+        >
+          CLEAN INGREDIENTS
+        </mj-text>
+        <mj-text
+          align="center"
+          font-size="14px"
+          color="white"
+          letter-spacing="1.1px"
+        >
+          ORRIS Artisanal Botanical Soaps are handmade in France using a
+          traditional Cold-Process soapmaking method and aged for 6 weeks. They
+          are 100% Palm Oil Free and utilize 100% Naturally Derived Fragrance.
+        </mj-text>
+        <mj-text
+          align="center"
+          font-size="14px"
+          color="white"
+          letter-spacing="1.1px"
+        >
+          All of our products use a luxury base of Olive Oil, Shea Butter, Cocoa
+          Butter, Castor Oil and Coconut Oil.
+        </mj-text>
+      </mj-column>
+      <mj-column>
+        <mj-image
+          src="https://cdn.seguno.com/637990ff7533493187fc62ed184f9788/images/Screenshot20230526at105746-1685091474769.png"
+          alt="bars of soap"
+          title="bars of soap"
+          width="260px"
+        />
+      </mj-column>
+    </mj-section>
+    <!-- clean ingredients -->
+    <!-- botanical section -->
+    <mj-section padding-bottom="20px" padding-top="20px">
+      <mj-column>
+        <mj-image
+          src="https://cdn.seguno.com/637990ff7533493187fc62ed184f9788/images/Screenshot20230526at163106-1685111474395.png"
+          alt="botanicals"
+          title="botanicals"
+          width="260px"
+        />
+      </mj-column>
+      <mj-column>
+        <mj-text
+          align="center"
+          font-size="14px"
+          color="white"
+          letter-spacing="1.1px"
+        >
+          BOTANICAL POWER
+        </mj-text>
+        <mj-text
+          align="center"
+          font-size="14px"
+          color="white"
+          letter-spacing="1.1px"
+        >
+          We harness the therapeutic properties of traditional herbal remedies
+          that were historically consumed orally for their many benefits.
+          Through a fusion of Eastern and Western herbal practices, we have
+          transformed these potent botanically ingredients into efficacious
+          topical skincare solutions.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- botanical section -->
+    <!-- skincare section -->
+    <mj-section padding-bottom="20px" padding-top="20px">
+      <mj-column>
+        <mj-text
+          align="center"
+          font-size="14px"
+          color="white"
+          letter-spacing="1.1px"
+        >
+          FUNCTIONAL SKINCARE for the FACE & BODY
+        </mj-text>
+        <mj-text
+          align="center"
+          font-size="14px"
+          color="white"
+          letter-spacing="1.1px"
+        >
+          ORRIS soaps contain a high percentage of Plant Lipids and naturally
+          occurring Glycerin (a by-product of the Cold Process saponification
+          method) to cleanse and hydrate in one step.
+        </mj-text>
+        <mj-text
+          align="center"
+          font-size="14px"
+          color="white"
+          letter-spacing="1.1px"
+        >
+          Each soap includes botanical actives designed to address a specific
+          skincare issue: brightening, dryness, acne, sensitivity and more.
+        </mj-text>
+      </mj-column>
+      <mj-column>
+        <mj-image
+          src="https://cdn.seguno.com/637990ff7533493187fc62ed184f9788/images/Screenshot20230526at110538-1685091947707.png"
+          alt="Bar of soap on shoulder"
+          title="ar of soap on shoulder"
+          width="260px"
+        />
+      </mj-column>
+    </mj-section>
+    <!-- skincare section -->
+    <!-- section title -->
+    <mj-section padding-bottom="20px" padding-top="20px">
+      <mj-column>
+        <mj-text
+          align="center"
+          font-size="15px"
+          color="white"
+          letter-spacing="1.1px"
+        >
+          SHOP THE ORRIS FACE AND BODY COLLECTION
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- section title -->
+    <!-- shop section -->
+    <mj-section padding-bottom="10px" padding-top="0">
+      <mj-column>
+        <mj-image
+          src="https://cdn.shopify.com/s/files/1/0513/0708/6018/products/Soliste_packshotcopy_600x600_crop_center.png?v=1644252347"
+          alt="LE SOLISTE"
+          title="LE SOLISTE"
+        />
+        <mj-text color="#fff"> LE SOLISTE </mj-text>
+        <mj-button background-color="#525b49" inner-padding="10px 15px">
+          SHOP NOW
+        </mj-button>
+      </mj-column>
+      <mj-column>
+        <mj-image
+          src="https://cdn.shopify.com/s/files/1/0513/0708/6018/products/Nomade_packshotBcopy_600x600_crop_center.png?v=1644252309"
+          alt="LE NOMADE"
+          title="LE NOMADE"
+        />
+        <mj-text color="#fff"> LE NOMADE </mj-text>
+        <mj-button background-color="#525b49" inner-padding="10px 15px">
+          SHOP NOW
+        </mj-button>
+      </mj-column>
+
+      <mj-column>
+        <mj-image
+          src="https://cdn.shopify.com/s/files/1/0513/0708/6018/products/Botaniste_packshotcopy_600x600_crop_center.png?v=1644252272"
+          alt="LE BOTANISTE"
+          title="LE BOTANISTE"
+        />
+        <mj-text color="#fff"> LE BOTANISTE </mj-text>
+        <mj-button background-color="#525b49" inner-padding="10px 15px">
+          SHOP NOW
+        </mj-button>
+      </mj-column>
+      <mj-column>
+        <mj-image
+          src="https://cdn.shopify.com/s/files/1/0513/0708/6018/products/Deesse_packshot_2_600x600_crop_center.png?v=1652795787"
+          alt="LA DÉESSE"
+          title="LA DÉESSE"
+        />
+        <mj-text color="#fff"> LA DÉESSE </mj-text>
+        <mj-button background-color="#525b49" inner-padding="10px 15px">
+          SHOP NOW
+        </mj-button>
+      </mj-column>
+    </mj-section>
+    <!-- shop section -->
+    <!-- view all button -->
+    <mj-section padding-top="0">
+      <mj-column>
+        <mj-button
+          align="center"
+          background-color="#525b49"
+          inner-padding="8px 12px"
+        >
+          VIEW ALL
+        </mj-button>
+      </mj-column>
+    </mj-section>
+    <!-- view all button -->
+    <!-- social links -->
+    <mj-section padding-top="0">
+      <mj-column>
+        <mj-text align="center">
+          <img
+            style="width: 24px; padding: 0 5px"
+            src="https://cdn.seguno.com/email/icons/instagram_FFFFFF.png"
+            alt="instagram"
+            title="instagram"
+          />
+          <img
+            style="width: 24px; padding: 0 5px"
+            src="https://cdn.seguno.com/email/icons/facebook_FFFFFF.png"
+            alt="facebook"
+            title="facebook"
+          />
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- social links -->
+    <!-- footer -->
+    <mj-section padding-top="0">
+      <mj-column>
+        <mj-text letter-spacing=".025em" color="#fff" align="center">
+          bonjour@orrisparis.com
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding-top="0">
+      <mj-column>
+        <mj-text
+          line-height="1.1"
+          letter-spacing=".025em"
+          color="#fff"
+          align="center"
+        >
+          © 2023 ORRIS PARIS. All rights reserved.<br />
+          SAS · Paris 75019 · France
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding-top="0">
+      <mj-column>
+        <mj-text
+          line-height="1.1"
+          letter-spacing=".025em"
+          color="#fff"
+          align="center"
+        >
+          Unsubscribe
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- footer -->
+  </mj-body>
+</mjml>
